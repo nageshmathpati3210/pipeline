@@ -23,7 +23,7 @@ pipeline{
             bat 'echo "always"'
         }
 
-        sucess{
+        success{
             bat 'echo "sucess"'
         }
 
